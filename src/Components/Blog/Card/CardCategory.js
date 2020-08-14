@@ -11,7 +11,7 @@ const StyledCategory = styled.div`
   color: ${ props => props.theme.body };
   font-weight: 300;
   line-height: 28px;
-  font-family: "Noto Sans KR", "Quicksand";
+  font-family: "Quicksand", "Noto Sans KR";
   margin-right: 10px;
 `
 

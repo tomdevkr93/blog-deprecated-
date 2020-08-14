@@ -4,7 +4,7 @@ export const CommentLink = styled.a`
   outline: none;
   border: 1px solid;
   font-size: 22px;
-  font-family: "Noto Sans KR", "Shadows Into Light", serif;
+  font-family: "Shadows Into Light", "Noto Sans KR", serif;
   border-radius: 5px;
   padding: 0px 20px 0 20px;
   cursor: pointer;

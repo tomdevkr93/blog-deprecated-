@@ -3,7 +3,7 @@
 html,
 body {
   margin: 0;
-  font-family: "Noto Sans KR", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Noto Sans KR", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -19,14 +19,14 @@ a,
 }
 
 h1 {
-  font-family: "Noto Sans KR", "Shadows Into Light", serif;
+  font-family: "Shadows Into Light", "Noto Sans KR", serif;
   font-size: 48px;
   text-align: left;
   margin-bottom: 8px;
 }
 
 h2 {
-  font-family: "Noto Sans KR", "Shadows Into Light", sans-serif;
+  font-family: "Shadows Into Light", "Noto Sans KR", sans-serif;
   font-size: 30px;
   font-weight: 700;
   padding: 0;
@@ -48,7 +48,7 @@ i,
 a,
 li,
 span {
-  font-family: "Noto Sans KR", "Quicksand";
+  font-family: "Quicksand", "Noto Sans KR";
   font-size: 21px;
   letter-spacing: -0.03px;
   line-height: 1.58;
@@ -59,7 +59,7 @@ a {
 }
 
 blockquote {
-  font-family: "Noto Sans KR", "Playfair Display", serif;
+  font-family: "Playfair Display", "Noto Sans KR", serif;
   font-size: 25px;
   font-style: italic;
   letter-spacing: -0.36px;
@@ -71,7 +71,7 @@ blockquote {
 }
 
 code {
-  font-family: "Noto Sans KR", source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", "Noto Sans KR", monospace;
   font-size: 18px;
   background: rgba(0, 0, 0, 0.05);
   border-radius: 2px;
@@ -80,7 +80,7 @@ code {
 
 pre > code {
   background: transparent !important;
-  font-family: "Noto Sans KR", "Quicksand";
+  font-family: "Quicksand", "Noto Sans KR";
   font-size: 18px;
   padding: 0px;
 }
@@ -98,7 +98,7 @@ mark,
 
 .first-letter {
   overflow-wrap: break-word;
-  font-family: "Noto Sans KR", "Playfair Display", serif;
+  font-family: "Playfair Display", "Noto Sans KR", serif;
   font-size: 60px;
   line-height: 60px;
   display: block;
@@ -108,7 +108,7 @@ mark,
 }
 
 .subtitle {
-  font-family: "Noto Sans KR", "Shadows Into Light", sans-serif;
+  font-family: "Shadows Into Light", "Noto Sans KR", sans-serif;
   color: rgba(0, 0, 0, 0.54);
   margin: 0 0 24px 0;
 }
