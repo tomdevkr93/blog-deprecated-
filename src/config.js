@@ -15,7 +15,7 @@ export const config = {
   OAuthSecret: '8c1886ce5de2dba0543469311b85e74b5f0d30f8',
 
   // Your Personal Blog Title
-  title : "이찬호 개발 로그" ,
+  title : "Chanho`s Log" ,
 
   // Your Personal Blog Subtitle
   subtitle : "🖥 Front-End Engineer",
@@ -24,7 +24,7 @@ export const config = {
   header: {
     backgroundColor: '#f1f6f8', // can be a CSS gradient
     backgroundColorDark: '#4C566A',
-    titleColor: '#ff5252',
+    titleColor: '#3498db',
     titleColorDark: '#16a085',
     subtitleColor: '#37474f',
     subtitleColorDark: '#D8DEE9',
